@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## RUN
 
 ```
-python main.py
+python main.py --video data/video.mp4
 ```
 ## Disclaimer
 This project is using code from:<br>
