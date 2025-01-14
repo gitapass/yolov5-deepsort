@@ -20,3 +20,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## Disclaimer
+This project is using code from:<br>
+ultralytics/yolov5 https://github.com/ultralytics/yolov5<br>
+nwojke/deep_sort https://github.com/nwojke/deep_sort<br>
