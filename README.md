@@ -9,3 +9,4 @@ curl -o .\weights\ckpt.t7 "https://drive.usercontent.google.com/download?id=1_qw
 ```
 curl -o .\weights\yolov5s.pt https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt
 ```
+将自己的video.mp4测试视频放入data文件夹里
